@@ -14,7 +14,7 @@
     将序列本身进行encoding 映射 （完成）
     构造数据集 （训练集，验证集，测试集）  
  
- （3）网络框架![Image text]('image/3.jpg')
+ （3）网络框架![Image text]('https://github.com/codecookinging/metal_binding/blob/master/image/3.jpg')
 
     初步搭建好
     优化（无）
