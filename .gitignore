@@ -1,0 +1,10 @@
+*.pyc
+BioLiP_2013-03-6.txt
+*.pyo
+.idea/
+CA30
+CA
+*.csv
+*.fa
+*.txt
+*.zip
