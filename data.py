@@ -46,7 +46,6 @@ with open('BioLip_2013-03-6.txt','r') as fr:
             #FE3.append([a[4],a[-1],a[8]])
             FE3.append(a)
         if a[4]=='CO':
-
             #Co.append([a[4],a[-1],a[8]])
             Co.append(a)
         if a[4]=='MN':
